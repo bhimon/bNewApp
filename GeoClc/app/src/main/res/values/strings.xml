@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GeoClc</string>
+    <string name="title_activity_splash">Splash</string>
+</resources>
